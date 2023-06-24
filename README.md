@@ -1,9 +1,8 @@
 
 # MANA DDoS
 
- DDoS Script (DDoS Panel) with Multiple Bypass ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )
- Don't attack any websites you don't own it
- This was created for educational purposes
+ DDoS Script with Multiple Bypass
+ This was created for educational/fun purposes
  All responsibilities and disadvantages of using this program is for the user.
  
 
@@ -57,7 +56,7 @@ OR
 
 ## Example
 ```sh
-Use DDoS Panel   : python3 manaddos.py
+Use DDoS Panel: python3 manaddos.py
 Use command line : python3 manaddos.py <method> <target> <thread> <time>
-      └──────────> python3 manaddos.py cfb https://example.com 100 30
+      └──────────> python3 manaddos.py of https://example.com 100 30
 ```
